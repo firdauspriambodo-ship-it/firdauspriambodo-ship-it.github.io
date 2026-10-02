@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.firdauspriambodo_ship_it.twa",
-        "sha256_cert_fingerprints": ["74:3E:8C:61:66:17:D8:70:7F:EF:9B:4A:05:3E:28:45:7F:93:01:2E:E1:E2:56:4A:FA:83:91:CA:4F:E6:22:52"]
+        "sha256_cert_fingerprints": ["F2:6C:0C:C6:80:BA:89:A7:7E:B2:83:89:FF:E4:D7:8F:42:D9:38:0D:67:8B:76:D3:EA:B2:90:02:FC:8C:A3:51"]
       }
     }]
